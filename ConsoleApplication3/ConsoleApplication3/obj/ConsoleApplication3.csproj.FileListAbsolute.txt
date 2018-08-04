@@ -1,0 +1,5 @@
+C:\Users\faruk\Desktop\ÖrnekOkul\1.dönem\programlama temelleri\ders sunumları\c uygulaması\12.12.n.ö c#\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\faruk\Desktop\ÖrnekOkul\1.dönem\programlama temelleri\ders sunumları\c uygulaması\12.12.n.ö c#\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\faruk\Desktop\ÖrnekOkul\1.dönem\programlama temelleri\ders sunumları\c uygulaması\12.12.n.ö c#\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\faruk\Desktop\ÖrnekOkul\1.dönem\programlama temelleri\ders sunumları\c uygulaması\12.12.n.ö c#\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\faruk\Desktop\ÖrnekOkul\1.dönem\programlama temelleri\ders sunumları\c uygulaması\12.12.n.ö c#\ConsoleApplication3\ConsoleApplication3\obj\Debug\ResolveAssemblyReference.cache

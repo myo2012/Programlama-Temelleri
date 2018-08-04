@@ -1,0 +1,5 @@
+C:\Users\faruk\Desktop\ÖrnekOkul\1.dönem\programlama temelleri\ders sunumları\c uygulaması\12.12iö\do while\do while\obj\Debug\do while.exe
+C:\Users\faruk\Desktop\ÖrnekOkul\1.dönem\programlama temelleri\ders sunumları\c uygulaması\12.12iö\do while\do while\obj\Debug\do while.pdb
+C:\Users\faruk\Desktop\ÖrnekOkul\1.dönem\programlama temelleri\ders sunumları\c uygulaması\12.12iö\do while\do while\bin\Debug\do while.exe
+C:\Users\faruk\Desktop\ÖrnekOkul\1.dönem\programlama temelleri\ders sunumları\c uygulaması\12.12iö\do while\do while\bin\Debug\do while.pdb
+C:\Users\faruk\Desktop\ÖrnekOkul\1.dönem\programlama temelleri\ders sunumları\c uygulaması\12.12iö\do while\do while\obj\Debug\ResolveAssemblyReference.cache
